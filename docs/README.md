@@ -1,5 +1,5 @@
 # Hi there
 
-Work-in-progress
+This website is a work-in-progress.
 
-Please come back later.
+Please come back later. Thanks!
