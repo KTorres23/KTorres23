@@ -1,5 +1,11 @@
 # Karina Torres
 
+
+---
+layout: default
+---
+
+
 ## About me
 
 This website is a work-in-progress.
