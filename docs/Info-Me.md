@@ -1,5 +1,3 @@
-# Hello there!
-
 I am pursuing a bachelor's degree in Natural Resource Conservation at the University of Florida.
 Currently, I work at two institutions, UF and FWC.
 I am a research assistant in Dr. Silvana Paula-Moraes' entomology lab, and a Steidinger Scholars summer intern at the FWRI at Garcon Point.
