@@ -1,4 +1,6 @@
-# Hi there
+# Karina Torres
+
+## About me
 
 This website is a work-in-progress.
 
